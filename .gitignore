@@ -1,0 +1,5 @@
+#Ex 2.9 gitignore
+*.in 
+*.out
+*.pyc
+
